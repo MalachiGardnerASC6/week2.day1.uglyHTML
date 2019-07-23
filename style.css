@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(53,53,53);
+}
+
+.top{
+    color:whitesmoke;
+    font-family: 'Tangerine', cursive;
+    text-align:center;
+    font-size:72px;
+    margin:20px;
+}
+h3{
+    color:whitesmoke;
+    font-family: 'Unica One', cursive;
+    text-align: center;
+    font-size: 26px;
+    border-image-width: 540px;
+}
+
+
+.watch_container{
+    background-color:#1A1818;
+    border-color: #FDEFA6;
+    border-style:solid;
+    border-width:2px;
+    margin: 15px;
+}
+
+h2{
+    color:whitesmoke;
+    font-family: 'Unica One', cursive;
+}
+
+.watch_description{
+    clear:both;
+    display:inline;
+    color:whitesmoke;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+
+
+
+footer{
+    color:whitesmoke;
+    font-family: 'Dosis', sans-serif;
+    font-size:30px;
+    text-align:center;
+    margin:25px;
+}
